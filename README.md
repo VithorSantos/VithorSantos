@@ -28,8 +28,6 @@ AI Engineer | Backend Developer | Java & Python | HTML & CSS | Information Syste
 ![My GitHub Game](game.gif)
 </div>
 
-#
-
 <!--
 ### Estatísticas
 <div> 
