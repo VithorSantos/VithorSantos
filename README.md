@@ -1,10 +1,7 @@
 ## Hi there 👋
-
 #  Vithor Santos
 
 AI Engineer | Backend Developer | Java & Python | HTML & CSS | Information Systems Student at Universidade do Sul de Santa Catarina
-
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vithor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
