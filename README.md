@@ -1,7 +1,15 @@
-## Hi there 👋
+<div align="center">
+
 #  Vithor Santos
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&duration=3000&pause=1000&color=F7F7CA&width=435&lines=Currently+learning+about+AI+engineering!;+Aprendendo+sobre+engenharia+de+IA++++!)](https://git.io/typing-svg)
+
+Meu nome é Vithor Santos, tenho 21 anos e sou natural de Santa Catarina. Atualmente, estou cursando Sistemas de informação na Universidade do Sul de Santa Catarina.
+
+Entusiasta da área de tecnologia, sempre estou acompanhando as diversas áreas de TI. Recentemente, venho estudando Engenharia de Agentes de IA na Alura e posto meus projetos neste perfil, em conjunto com o meu canal no YouTube, [Dev Vithor](https://www.youtube.com/@DevVithorXD).
+
 AI Engineer | Backend Developer | Java & Python | HTML & CSS | Information Systems Student at Universidade do Sul de Santa Catarina
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vithor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -10,6 +18,8 @@ AI Engineer | Backend Developer | Java & Python | HTML & CSS | Information Syste
   <img align="center" alt="Vithor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
   <img align="center" alt="Vithor-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
+
+
     
 ##
 
@@ -28,6 +38,7 @@ AI Engineer | Backend Developer | Java & Python | HTML & CSS | Information Syste
 ![My GitHub Game](game.gif)
 </div>
 
+</div>
 <!--
 ### Estatísticas
 <div> 
