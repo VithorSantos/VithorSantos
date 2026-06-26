@@ -30,6 +30,7 @@ AI Engineer | Backend Developer | Java & Python | HTML & CSS | Information Syste
 
 #
 
+<!--
 ### Estatísticas
 <div> 
   <img 
@@ -40,3 +41,4 @@ AI Engineer | Backend Developer | Java & Python | HTML & CSS | Information Syste
     src="https://github-readme-stats.vercel.app/api?username=VithorSantos&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 </div>
+-->
