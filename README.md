@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![My GitHub Game](game.gif)
 <!--
 **VithorSantos/VithorSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
