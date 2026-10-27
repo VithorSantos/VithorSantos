@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&duration=3000&pause=1000&color=F7F7CA&width=435&lines=Currently+learning+about+AI+engineering!)](https://git.io/typing-svg)
 
-Meu nome é Vithor Santos, tenho 21 anos e sou natural de Santa Catarina. Atualmente, estou cursando Sistemas de informação na Universidade do Sul de Santa Catarina.
+Meu nome é Vithor Santos, tenho 22 anos e sou natural de Santa Catarina. Atualmente, estou cursando Sistemas de informação na Universidade do Sul de Santa Catarina.
 
 Entusiasta da área de tecnologia, sempre estou acompanhando as diversas áreas de TI. Recentemente, venho estudando Engenharia de Agentes de IA na Alura e posto meus projetos neste perfil, em conjunto com o meu canal no YouTube, [Dev Vithor](https://www.youtube.com/@DevVithorXD).
 
